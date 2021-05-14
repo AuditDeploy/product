@@ -10,6 +10,12 @@ Minimum ram: 12		| Recommended: 16
 Required OS: Ubuntu 18.04 lts
 
 Minimum Storage: 40Gb	
+### Cloud Provider Size/Shape Documentation
+[AWS][https://aws.amazon.com/ec2/instance-types/]
+[Azure][https://docs.microsoft.com/en-us/azure/virtual-machines/sizes]
+[GCP][https://cloud.google.com/compute/docs/machine-types]
+[Oracle][https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm]
+
 
 ### Deployment Steps
 1. Once the image/ami is in your tenancy, launch an instance with either the Minimum or Recommended Spec requirements
@@ -39,3 +45,7 @@ The appliance does not require root access, Capture will spin up on launch from 
 [GCP Best Practices Cloud Security][https://cloud.google.com/security/best-practices]
 
 [Oracle Best Practices Cloud Infrastructure][https://www.oracle.com/technetwork/articles/systems-hardware-architecture/o11-050-cloud-iaas-vm-405449.pdf]
+
+
+### Support Contact
+If you are in need of support, contact @ support@auditdeploy.com

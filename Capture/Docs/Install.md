@@ -44,9 +44,17 @@ Restart=on-failure
 [Install]
 WantedBy=multi-user.target
 ```
+### Health Checks
+Shippers will have healthchecks shown within the ui, if they are showing that they are unhealthy
+Please restart them within the instance/environment that they're residing in.
+
 
 ### SSL Certificate installation
 There are two ways to install SSL encryption for https
 1. You can create a temporary SSL certificate through certbot within the UI
 2. You can upload your certificate chain to the instance through the UI
 You must have an A record set for the Capture Instance for this to work.
+
+### Backing up your data
+You can export your data from the UI, and resize your instance according to your cloud provider
+if you need more space.
