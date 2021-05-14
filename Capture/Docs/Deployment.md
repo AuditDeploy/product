@@ -14,3 +14,6 @@ Minimum Storage: 40Gb
 ### Deployment Steps
 1. Once the image/ami is in your tenancy, launch an instance with either the Minimum or Recommended Spec requirements
 2. Make sure to have http/https enabled on the instance, recommended wait time after launching is 5 minutes
+
+### Skills Needed
+General Understanding of how to launch an instance from image/ami within your cloud provider
