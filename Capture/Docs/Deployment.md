@@ -17,3 +17,6 @@ Minimum Storage: 40Gb
 
 ### Skills Needed
 General Understanding of how to launch an instance from image/ami within your cloud provider
+
+### Other Requirements
+An account with the cloud provider (AWS, Azure, GCP, or Oracle)
