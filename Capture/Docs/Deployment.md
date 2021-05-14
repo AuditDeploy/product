@@ -20,3 +20,12 @@ General Understanding of how to launch an instance from image/ami within your cl
 
 ### Other Requirements
 An account with the cloud provider (AWS, Azure, GCP, or Oracle)
+
+### Deployment Best Practices
+[AWS Best Practices IAM][https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html]
+
+[Azure Deployment Best Practices][https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices]
+
+[GCP Best Practices Cloud Security][https://cloud.google.com/security/best-practices]
+
+[Oracle Best Practices Cloud Infrastructure][https://www.oracle.com/technetwork/articles/systems-hardware-architecture/o11-050-cloud-iaas-vm-405449.pdf]
