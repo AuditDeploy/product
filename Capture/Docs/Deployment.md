@@ -18,8 +18,18 @@ Minimum Storage: 40Gb
 ### Skills Needed
 General Understanding of how to launch an instance from image/ami within your cloud provider
 
+### SSH needs
+If you need to restart the service, you can use ssh keys within your tenancy then ssh as a super user
+Once inside, you only need to run the command
+```
+sudo systemctl restart capture-service.service
+```
+
 ### Other Requirements
 An account with the cloud provider (AWS, Azure, GCP, or Oracle)
+
+The appliance does not require root access, Capture will spin up on launch from image/ami.
+
 
 ### Deployment Best Practices
 [AWS Best Practices IAM][https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html]

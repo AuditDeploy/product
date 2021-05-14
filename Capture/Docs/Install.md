@@ -44,3 +44,9 @@ Restart=on-failure
 [Install]
 WantedBy=multi-user.target
 ```
+
+### SSL Certificate installation
+There are two ways to install SSL encryption for https
+1. You can create a temporary SSL certificate through certbot within the UI
+2. You can upload your certificate chain to the instance through the UI
+You must have an A record set for the Capture Instance for this to work.
