@@ -42,7 +42,7 @@ sudo ./log-shipper-linux -i [shipper id]
  installation was successful and that the shipper is healthy. 
 
 If you'd like to run the shipper as a continuously running service file, an example of that is below
-
+...
 [Unit]
 Description=capture log shipper - starts shipperservice-service
 After=network.target
@@ -56,3 +56,4 @@ StandardError=file:/var/log/cshipper.log
 Restart=on-failure
 [Install]
 WantedBy=multi-user.target
+...
