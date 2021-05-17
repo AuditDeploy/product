@@ -1,6 +1,7 @@
 # Deployment Overview/Technical Requirements
-As an Appliance, there is only a single node required for install with the requirements for that node listed below.
 Other than what you currently have running in your environment, Capture will be one single instance that will help you see your data. 
+As an Appliance, there is only a single node required for install with the requirements for that node listed below.
+
 
 ### Technical Spec. Requirements of Capture
 Minimum | Recommended
@@ -10,6 +11,11 @@ Minimum *RAM:* 12 GB		| Recommended: 16 GB
 Minimum *Disk:* 40 GB | Recommended: 250 GB
 
 Required OS: Ubuntu 18.04 lts
+
+### License Information
+Capture has an initial 60 day free to use license, which then requires an additional paid license to use.
+Details can be found [here](https://github.com/AuditDeploy/product/blob/main/Capture/Docs/Billing.md).
+
 	
 ### Cloud Provider Size/Shape Documentation
 [AWS](https://aws.amazon.com/ec2/instance-types/)
