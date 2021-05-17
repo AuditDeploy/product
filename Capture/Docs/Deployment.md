@@ -4,12 +4,12 @@ Other than what you currently have running in your environment, Capture will be 
 ### Technical Spec. Requirements of Capture
 Minimum | Recommended
  --- | --- 
-Minimum CPU: 2		| Recommended: 4
-Minimum ram: 12		| Recommended: 16
+Minimum CPU: 2 vCPU		| Recommended: 4 vCPU
+Minimum ram: 12 GB		| Recommended: 16 GB
+Minimum Storage: 40 GB | Recommended: 250 GB
 
 Required OS: Ubuntu 18.04 lts
-
-Minimum Storage: 40Gb	
+	
 ### Cloud Provider Size/Shape Documentation
 [AWS][https://aws.amazon.com/ec2/instance-types/]
 [Azure][https://docs.microsoft.com/en-us/azure/virtual-machines/sizes]
