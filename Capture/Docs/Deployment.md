@@ -22,6 +22,7 @@ Details can be found [here](https://github.com/AuditDeploy/product/blob/main/Cap
 [Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes)
 [GCP](https://cloud.google.com/compute/docs/machine-types)
 [Oracle](https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm)
+Please refer to the Technical Spec. Requirements when selecting the size/shape of your instance.
 
 
 ### Deployment Steps
