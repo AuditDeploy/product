@@ -1,4 +1,5 @@
 # Deployment Overview/Technical Requirements
+As an Appliance, there is only a single node required for install with the requirements for that node listed below.
 Other than what you currently have running in your environment, Capture will be one single instance that will help you see your data. 
 
 ### Technical Spec. Requirements of Capture
