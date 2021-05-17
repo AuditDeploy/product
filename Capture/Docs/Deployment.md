@@ -4,9 +4,9 @@ Other than what you currently have running in your environment, Capture will be 
 ### Technical Spec. Requirements of Capture
 Minimum | Recommended
  --- | --- 
-Minimum CPU: 2 vCPU		| Recommended: 4 vCPU
-Minimum ram: 12 GB		| Recommended: 16 GB
-Minimum Storage: 40 GB | Recommended: 250 GB
+Minimum *CPU:* 2 vCPU		| Recommended: 4 vCPU
+Minimum *RAM:* 12 GB		| Recommended: 16 GB
+Minimum *Disk:* 40 GB | Recommended: 250 GB
 
 Required OS: Ubuntu 18.04 lts
 	
