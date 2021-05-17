@@ -11,10 +11,10 @@ Minimum *Disk:* 40 GB | Recommended: 250 GB
 Required OS: Ubuntu 18.04 lts
 	
 ### Cloud Provider Size/Shape Documentation
-[AWS][https://aws.amazon.com/ec2/instance-types/]
-[Azure][https://docs.microsoft.com/en-us/azure/virtual-machines/sizes]
-[GCP][https://cloud.google.com/compute/docs/machine-types]
-[Oracle][https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm]
+[AWS](https://aws.amazon.com/ec2/instance-types/)
+[Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/sizes)
+[GCP](https://cloud.google.com/compute/docs/machine-types)
+[Oracle](https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm)
 
 
 ### Deployment Steps
@@ -38,13 +38,13 @@ The appliance does not require root access, Capture will spin up on launch from 
 
 
 ### Deployment Best Practices
-[AWS Best Practices IAM][https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html]
+[AWS Best Practices IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 
-[Azure Deployment Best Practices][https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices]
+[Azure Deployment Best Practices](https://docs.microsoft.com/en-us/azure/app-service/deploy-best-practices)
 
-[GCP Best Practices Cloud Security][https://cloud.google.com/security/best-practices]
+[GCP Best Practices Cloud Security](https://cloud.google.com/security/best-practices)
 
-[Oracle Best Practices Cloud Infrastructure][https://www.oracle.com/technetwork/articles/systems-hardware-architecture/o11-050-cloud-iaas-vm-405449.pdf]
+[Oracle Best Practices Cloud Infrastructure](https://www.oracle.com/technetwork/articles/systems-hardware-architecture/o11-050-cloud-iaas-vm-405449.pdf)
 
 
 ### Support Contact
