@@ -56,4 +56,4 @@ The appliance does not require root access, Capture will spin up on launch from 
 
 
 ### Support Contact
-If you are in need of support, contact @ support@auditdeploy.com
+Capture does not currently offer any direct live support. If you are having issues running or configuring the software prease contact support@auditdeploy.com.
